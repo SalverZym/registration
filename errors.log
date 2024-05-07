@@ -1,0 +1,1556 @@
+[01-May-2024 19:34:25 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:26 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:32 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:32 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:33 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:34 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:36 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:38 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:38 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 19:34:39 Europe/Moscow] PHP Warning:  Undefined array key "rdgsdg" in D:\OpenServer\domains\registration\model_registration.php on line 6
+[01-May-2024 20:32:18 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function model_base::validate(), 0 passed in D:\OpenServer\domains\registration\index.php on line 20 and exactly 1 expected in D:\OpenServer\domains\registration\model_base.php:24
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(20): model_base->validate()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 24
+[01-May-2024 21:32:13 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in D:\OpenServer\domains\registration\model_registration.php on line 16
+[01-May-2024 21:32:15 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in D:\OpenServer\domains\registration\model_registration.php on line 16
+[01-May-2024 21:32:16 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in D:\OpenServer\domains\registration\model_registration.php on line 16
+[01-May-2024 21:32:18 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in D:\OpenServer\domains\registration\model_registration.php on line 16
+[01-May-2024 21:32:20 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in D:\OpenServer\domains\registration\model_registration.php on line 16
+[01-May-2024 21:32:20 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in D:\OpenServer\domains\registration\model_registration.php on line 16
+[01-May-2024 21:34:08 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in D:\OpenServer\domains\registration\model_registration.php on line 16
+[01-May-2024 21:35:08 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function model_registration::test(), 0 passed in D:\OpenServer\domains\registration\index.php on line 20 and exactly 1 expected in D:\OpenServer\domains\registration\model_registration.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(20): model_registration->test()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\model_registration.php on line 15
+[01-May-2024 21:35:10 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function model_registration::test(), 0 passed in D:\OpenServer\domains\registration\index.php on line 20 and exactly 1 expected in D:\OpenServer\domains\registration\model_registration.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(20): model_registration->test()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\model_registration.php on line 15
+[01-May-2024 21:35:10 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function model_registration::test(), 0 passed in D:\OpenServer\domains\registration\index.php on line 20 and exactly 1 expected in D:\OpenServer\domains\registration\model_registration.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(20): model_registration->test()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\model_registration.php on line 15
+[01-May-2024 21:35:53 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:35:54 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:35:55 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:35:55 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:35:58 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:35:58 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:36:01 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:02 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:04 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:11 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:13 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:15 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:20 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:22 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:26 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'registration.user' doesn't exist in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:36:28 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:36:28 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:08 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tel' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:40:09 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:40:11 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:11 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:15 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:15 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:17 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:17 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:21 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:21 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 31
+[01-May-2024 21:40:28 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:40:30 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tel' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:40:30 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:44:12 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:44:13 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:44:15 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:50:47 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:52:50 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:52:53 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:52:53 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:52:55 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:52:56 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(32): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:56:33 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 21:56:38 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:01:31 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dgsdg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:01:33 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dgsdg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:01:34 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dgsdg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:01:47 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dgsdg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:02:13 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:04:28 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:04:29 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:04:30 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:04:31 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 28
+[01-May-2024 22:04:31 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[01-May-2024 22:04:33 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[01-May-2024 22:07:00 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[02-May-2024 01:03:29 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[02-May-2024 01:03:30 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[02-May-2024 01:03:31 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[02-May-2024 01:04:23 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[02-May-2024 01:05:27 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[02-May-2024 01:05:27 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[02-May-2024 01:05:31 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 32
+[02-May-2024 01:05:31 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[02-May-2024 01:05:32 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[02-May-2024 01:05:32 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(21): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:51:56 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:51:56 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:51:56 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:51:56 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:51:56 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:51:56 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:52:05 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:52:05 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:52:05 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:52:05 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:52:05 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 21:52:05 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:32
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(32): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 32
+[03-May-2024 22:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 22:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 22:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 22:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 22:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 22:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'undefined' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 23:33:53 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:53 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:54 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:54 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:54 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:54 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:55 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:55 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:56 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:56 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:57 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:33:57 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:12 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:12 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:13 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:13 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:13 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:13 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:14 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:34:14 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:35:07 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:35:07 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:35:09 Europe/Moscow] PHP Warning:  Undefined array key "myInput" in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:35:09 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 28
+[03-May-2024 23:54:04 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'g' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 23:54:05 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'gh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 23:54:06 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ghj' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 23:54:07 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ghjk' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[03-May-2024 23:54:08 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ghjkl' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:41 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ghjk' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:42 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ghj' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:42 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'gh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:42 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'g' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:43 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'f' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:43 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:44 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fgh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:44 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fghj' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:45 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fghjf' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:45 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fghjfg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:45 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fghjfgj' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:45 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fghjfgjg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:48 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'f' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:48 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fd' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:48 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdf' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:48 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdfg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:49 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdfgf' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:49 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdfgfd' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:49 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdfgfdg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:50 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdfgfdgf' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:50 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdfgfdgfh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:51 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fdfgfdgfhh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:51 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'h' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:52 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hd' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:52 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hdf' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:52 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hdfh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:52 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hdfhf' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:52 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hdfhfd' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:52 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hdfhfdh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:55 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'f' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:56 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fh' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:56 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fhg' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:57 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fhgj' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:57 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fhgjy' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:57 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fhgjyy' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:27:58 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fhgjyyj' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(29): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:33:20 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 25
+[04-May-2024 20:33:20 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 25
+[04-May-2024 20:33:21 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 25
+[04-May-2024 20:34:05 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 25
+[04-May-2024 20:34:05 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 25
+[04-May-2024 20:34:06 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 25
+[04-May-2024 20:50:18 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'y' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:50:19 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'yu' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dfsdgfsd' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:52:46 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dfsdgfsd' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:52:47 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dfsdgfsd' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:55:03 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'silver' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:55:03 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'silver' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 20:55:04 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'silver' in 'where clause' in D:\OpenServer\domains\registration\model_base.php:15
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(15): mysqli->query()
+#1 D:\OpenServer\domains\registration\model_base.php(25): model_base->unique()
+#2 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#3 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#4 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 15
+[04-May-2024 21:02:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(27): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:02:15 Europe/Moscow] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(27): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:02:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(27): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:02:43 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(27): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:02:43 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(27): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:02:44 Europe/Moscow] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(27): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:13:59 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:14:00 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:14:01 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:14:01 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:14:02 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:14:02 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:14:04 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:14:04 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:15:57 Europe/Moscow] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(28): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:15:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(28): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:15:59 Europe/Moscow] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in D:\OpenServer\domains\registration\model_base.php:19
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(28): model_base->unique()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:17 Europe/Moscow] PHP Warning:  Array to string conversion in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:18 Europe/Moscow] PHP Warning:  Array to string conversion in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:18 Europe/Moscow] PHP Warning:  Array to string conversion in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:45 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:46 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:46 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:47 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:54 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:54 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:54 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:54 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:54 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:16:54 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\model_base.php on line 19
+[04-May-2024 21:51:23 Europe/Moscow] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in D:\OpenServer\domains\registration\model_base.php on line 21
+[04-May-2024 21:51:23 Europe/Moscow] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in D:\OpenServer\domains\registration\model_base.php on line 21
+[04-May-2024 21:51:23 Europe/Moscow] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in D:\OpenServer\domains\registration\model_base.php on line 21
+[04-May-2024 21:51:24 Europe/Moscow] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in D:\OpenServer\domains\registration\model_base.php on line 21
+[04-May-2024 21:51:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:31
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 31
+[04-May-2024 21:51:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:31
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 31
+[04-May-2024 21:51:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:31
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 31
+[04-May-2024 21:51:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method model_registration::required() in D:\OpenServer\domains\registration\model_base.php:31
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#1 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 31
+[05-May-2024 00:55:40 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:40 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:40 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:40 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:41 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:41 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:43 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:43 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:44 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:44 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:45 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:45 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:46 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:55:46 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:27 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:27 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:27 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:27 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:28 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:28 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:29 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:29 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:30 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:30 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:32 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:32 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:33 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:33 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:48 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:48 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:48 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:48 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:48 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:48 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:49 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:49 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:49 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:49 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:51 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:51 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:52 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:56:52 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:54 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:54 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:54 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:54 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:56 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:56 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:56 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:57:56 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:11 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:11 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:11 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:11 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:11 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:11 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:12 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:12 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:12 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:12 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:13 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:13 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:15 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:15 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:16 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:16 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:17 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:17 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:17 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 00:58:17 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:01 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:01 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:02 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:02 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:03 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:03 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:03 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:04 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:04 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:30 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:30 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:45 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:45 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:46 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:01:46 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:03:02 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:03:02 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:03:03 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:03:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:03:03 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:03:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:04:15 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:04:15 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:04:15 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:04:15 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:04:17 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:04:17 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:04:59 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 01:04:59 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:38
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(38): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 01:05:01 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 01:05:01 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:38
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(38): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 01:05:03 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:05:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:05:05 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:05:05 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:05:08 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:05:08 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:05:09 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 01:05:09 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:11:31 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:11:31 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:11:34 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:11:34 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:14:57 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:14:57 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:14:58 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:14:58 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:16:53 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:16:53 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:16:55 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:16:55 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:16:59 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:16:59 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:00 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:00 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:01 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:01 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:02 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:02 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:02 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:02 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:03 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:17:03 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:38
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(38): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:17:03 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:03 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:17:03 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:38
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(38): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:17:05 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:05 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:06 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:06 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:38 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:38 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:40 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:17:40 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:21:22 Europe/Moscow] PHP Warning:  Undefined array key "password" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:21:22 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:21:23 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:21:23 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:29:07 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:29:07 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:29:47 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:29:47 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:19 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:19 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:21 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:21 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:44 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:30:44 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:38
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(38): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:30:52 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:52 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:52 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:52 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:52 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:52 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:53 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:54 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:30:54 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:36:10 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:36:10 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\OpenServer\domains\registration\model_base.php:38
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_base.php(38): in_array()
+#1 D:\OpenServer\domains\registration\model_registration.php(22): model_base->validate()
+#2 D:\OpenServer\domains\registration\index.php(20): model_registration->validate()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_base.php on line 38
+[05-May-2024 16:36:14 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:36:14 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:38:05 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:38:05 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:41:31 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 16:41:31 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:12:57 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 32
+[05-May-2024 17:12:57 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 32
+[05-May-2024 17:16:41 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:16:41 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:25:55 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:25:55 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:26:11 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:26:11 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:55 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:55 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:56 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:56 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:56 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:56 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:56 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:27:56 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:31:49 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:31:49 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:35:17 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 17:35:17 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 20:27:49 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 35
+[05-May-2024 20:27:49 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 35
+[05-May-2024 20:28:55 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ")" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 20:28:56 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ")" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 20:28:57 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ")" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 20:28:59 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ")" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 20:29:00 Europe/Moscow] PHP Parse error:  syntax error, unexpected token ")" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 21:43:54 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'tel' at row 1 in D:\OpenServer\domains\registration\model_registration.php:26
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(26): mysqli->query()
+#1 D:\OpenServer\domains\registration\registration.php(13): model_registration->addUser()
+#2 D:\OpenServer\domains\registration\index.php(20): registration->show()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_registration.php on line 26
+[05-May-2024 21:44:00 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'tel' at row 1 in D:\OpenServer\domains\registration\model_registration.php:26
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(26): mysqli->query()
+#1 D:\OpenServer\domains\registration\registration.php(13): model_registration->addUser()
+#2 D:\OpenServer\domains\registration\index.php(20): registration->show()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_registration.php on line 26
+[05-May-2024 21:44:01 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'tel' at row 1 in D:\OpenServer\domains\registration\model_registration.php:26
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(26): mysqli->query()
+#1 D:\OpenServer\domains\registration\registration.php(13): model_registration->addUser()
+#2 D:\OpenServer\domains\registration\index.php(20): registration->show()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_registration.php on line 26
+[05-May-2024 21:45:46 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 21:45:46 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 21:45:48 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'e@gmail.com' for column 'tel' at row 1 in D:\OpenServer\domains\registration\model_registration.php:26
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_registration.php(26): mysqli->query()
+#1 D:\OpenServer\domains\registration\registration.php(13): model_registration->addUser()
+#2 D:\OpenServer\domains\registration\index.php(20): registration->show()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_registration.php on line 26
+[05-May-2024 21:48:41 Europe/Moscow] PHP Warning:  Undefined array key "clone" in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 21:48:41 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\model_base.php on line 34
+[05-May-2024 22:57:42 Europe/Moscow] PHP Warning:  Undefined array key "email" in D:\OpenServer\domains\registration\model_login.php on line 11
+[05-May-2024 23:20:27 Europe/Moscow] PHP Warning:  Undefined array key "email" in D:\OpenServer\domains\registration\model_login.php on line 11
+[06-May-2024 22:23:42 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:23:42 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:24:08 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in D:\OpenServer\domains\registration\registration.php:11
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(18): registration->show()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\registration.php on line 11
+[06-May-2024 22:24:49 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:24:49 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:25:58 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:25:58 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:25:59 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:25:59 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:19 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:19 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:20 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:20 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:20 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:20 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:20 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:27:20 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:28:08 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:28:08 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:28:50 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:28:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:03 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:06 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:06 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:10 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:10 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:18 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registrationfunctions.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:31:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registrationfunctions.php' (include_path='.') in D:\OpenServer\domains\registration\login.php:5
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(14): require_once()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\login.php on line 5
+[06-May-2024 22:32:34 Europe/Moscow] PHP Warning:  Undefined array key "email" in D:\OpenServer\domains\registration\model_login.php on line 11
+[06-May-2024 22:35:20 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:35:20 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:36:09 Europe/Moscow] PHP Warning:  Undefined array key "email" in D:\OpenServer\domains\registration\model_login.php on line 11
+[06-May-2024 22:36:17 Europe/Moscow] PHP Warning:  Undefined array key "email" in D:\OpenServer\domains\registration\model_login.php on line 11
+[06-May-2024 22:36:20 Europe/Moscow] PHP Warning:  Undefined array key "email" in D:\OpenServer\domains\registration\model_login.php on line 11
+[06-May-2024 22:36:22 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:36:22 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:36:25 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:36:25 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:36:48 Europe/Moscow] PHP Warning:  Undefined array key "email" in D:\OpenServer\domains\registration\model_login.php on line 11
+[06-May-2024 22:39:40 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:39:40 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:41:01 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:41:01 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:41:07 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:41:07 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:44:08 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:44:08 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:49:00 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:49:00 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:49:01 Europe/Moscow] PHP Warning:  Undefined array key "login" in D:\OpenServer\domains\registration\views\login.php on line 8
+[06-May-2024 22:58:07 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:58:07 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:58:09 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:58:09 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:58:16 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 22:58:16 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\views\main.php on line 9
+[06-May-2024 23:06:10 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[06-May-2024 23:06:10 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[06-May-2024 23:06:12 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[06-May-2024 23:06:12 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[06-May-2024 23:06:29 Europe/Moscow] PHP Warning:  require_once(D:\OpenServer\domains\registration//views/profile.php.php): Failed to open stream: No such file or directory in D:\OpenServer\domains\registration\controller_base.php on line 10
+[06-May-2024 23:06:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required 'D:\OpenServer\domains\registration//views/profile.php.php' (include_path='.') in D:\OpenServer\domains\registration\controller_base.php:10
+Stack trace:
+#0 D:\OpenServer\domains\registration\profile.php(19): controller_base->render()
+#1 D:\OpenServer\domains\registration\index.php(18): profile->show()
+#2 {main}
+  thrown in D:\OpenServer\domains\registration\controller_base.php on line 10
+[07-May-2024 00:25:38 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function profile::show(), 0 passed in D:\OpenServer\domains\registration\index.php on line 20 and exactly 1 expected in D:\OpenServer\domains\registration\profile.php:10
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(20): profile->show()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\profile.php on line 10
+[07-May-2024 00:33:19 Europe/Moscow] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function profile::show(), 0 passed in D:\OpenServer\domains\registration\index.php on line 20 and exactly 1 expected in D:\OpenServer\domains\registration\profile.php:10
+Stack trace:
+#0 D:\OpenServer\domains\registration\index.php(20): profile->show()
+#1 {main}
+  thrown in D:\OpenServer\domains\registration\profile.php on line 10
+[07-May-2024 00:44:53 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:44:53 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:44:54 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:44:54 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:44:55 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:44:55 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:11 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:11 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:12 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:12 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:56 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:56 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:57 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:45:57 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:46:27 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:46:27 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:46:28 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:46:28 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:46:30 Europe/Moscow] PHP Warning:  Undefined global variable $_SESSION in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:46:30 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in D:\OpenServer\domains\registration\profile.php on line 12
+[07-May-2024 00:46:48 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='5235125',email='edd@gmail.com',login='sf',tel='23356325',password='1',WHERE lo' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(27): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 00:51:28 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='5235125',email='edd@gmail.com',login='sf',tel='23356325',password='1',WHERE lo' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 00:54:15 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', id='5235125', email='edd@gmail.com', login='sf', tel='23356325', password='1'W' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 00:58:34 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='5235125,'email='edd@gmail.com,'login='sf,'tel='23356325,'password='1,WHERE log' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 00:59:35 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='5235125,email='edd@gmail.com,login='sf,tel='23356325,password='1 WHERE login='' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 01:01:56 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='5235125, email='edd@gmail.com, login='sf, tel='23356325, password='1, WHERE lo' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 01:03:31 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='5235125' ,email='edd@gmail.com' ,login='sf' ,tel='23356325' ,password='1'  WHE' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 01:03:35 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='5235125' ,email='edd@gmail.com' ,login='sf' ,tel='23356325' ,password='1'  WHE' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 01:07:47 Europe/Moscow] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='sfa' ,email='edd@gmail.com' ,tel='23356325' ,password='1'  WHERE login='sfa'' at line 1 in D:\OpenServer\domains\registration\model_profile.php:25
+Stack trace:
+#0 D:\OpenServer\domains\registration\model_profile.php(25): mysqli->query()
+#1 D:\OpenServer\domains\registration\profile.php(28): model_profile->changeUser()
+#2 D:\OpenServer\domains\registration\index.php(20): profile->change()
+#3 {main}
+  thrown in D:\OpenServer\domains\registration\model_profile.php on line 25
+[07-May-2024 01:09:03 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\views\profile.php on line 10
+[07-May-2024 01:09:06 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\views\profile.php on line 10
+[07-May-2024 01:09:07 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\views\profile.php on line 10
+[07-May-2024 01:09:08 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\views\profile.php on line 10
+[07-May-2024 01:09:10 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\views\profile.php on line 10
+[07-May-2024 01:18:04 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in D:\OpenServer\domains\registration\views\profile.php on line 10
+[07-May-2024 01:25:12 Europe/Moscow] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\OpenServer\domains\registration\model_profile.php on line 18
+[07-May-2024 03:29:41 Europe/Moscow] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in D:\OpenServer\domains\registration\model_profile.php on line 30
+[07-May-2024 21:17:59 Europe/Moscow] PHP Warning:  Undefined array key "logged_in" in D:\OpenServer\domains\registration\profile.php on line 14
